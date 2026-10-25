@@ -1,0 +1,8 @@
+{
+  "name": "BloodConnect",
+  "description": "AI-Powered Blood Bank, Donor Finder and Emergency Request Platform with real-time donor matching, Google Maps integration, inventory tracking, and Gemini AI guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
